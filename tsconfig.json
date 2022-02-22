@@ -1,0 +1,11 @@
+{
+   "files": ["sandpile.js"],
+   "compilerOptions": {
+      "strict": true,
+      "noEmit": true,
+      "checkJs": true,
+      "lib": ["dom", "es2021"],
+      "module": "es6",
+      "newLine": "lf",
+   },
+}
