@@ -1,7 +1,6 @@
 // sandpile 2022
 /** @type {HTMLCanvasElement} */
 const canvas = document.getElementById("canvas");
-const ctx = canvas.getContext("2d");
 
 /** @type {WebGLRenderingContext} */
 const gl = canvas.getContext("webgl");
